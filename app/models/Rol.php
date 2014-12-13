@@ -1,0 +1,10 @@
+<?php
+
+class Rol extends \Eloquent {
+	protected $fillable = [];
+
+	protected $table = 'Rol';
+	protected $primaryKey = 'RolId';
+
+
+}
